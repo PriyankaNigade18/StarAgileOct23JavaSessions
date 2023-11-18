@@ -25,7 +25,9 @@ public class MethodDemo
 		MethodDemo m1=new MethodDemo();
 		
 		m1.startApp();
-		m1.runApp();
+		//The static method runApp() from the type MethodDemo
+		//should be accessed in a static way
+		//m1.runApp();
 		
 		
 		
