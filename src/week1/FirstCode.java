@@ -13,7 +13,7 @@ public class FirstCode
 		AccessModifierDemo a2=new AccessModifierDemo ();
 		System.out.println(a2.name);
 		System.out.println(a2.id);
-		System.out.println(a2.acno);
+		System.out.println(a2.acno);//protected
 		//a2.phno;
 		
 	}
